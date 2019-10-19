@@ -17,5 +17,5 @@ BoardMember.prototype.releasePressStatement=function(){
   return "You will see great things from Scuber"
 }
 BoardMember.prototype.sayHi=function(){
-  return 
+  return "Hi, my name is <name>. I am from <homestate>, and I was trained in <training>."
 }
