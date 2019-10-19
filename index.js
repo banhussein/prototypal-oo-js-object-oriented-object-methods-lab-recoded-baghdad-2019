@@ -8,7 +8,7 @@ BoardMember.prototype.veto=function(){
   return "No, I must disagree"
 }
 BoardMember.prototype.approve=function(){
-  return "No, I must disagree"
+  return ""
 }
 BoardMember.prototype.doCharity=function(){
   return "like to help people."
