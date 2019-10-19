@@ -3,3 +3,7 @@ function BoardMember(name,homeState,training){
   this.homeState=homeState;
   this.training=training;
 }
+//User.prototype.sayHello = function() {
+BoardMember.prototype.veto=function(){
+  return 
+}
